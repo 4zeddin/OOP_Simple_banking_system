@@ -26,6 +26,6 @@ Contributions are welcome!
 ## Author
 
 - azeddin
-- Email: azeddinaitwaalla.doe@gmail.com
+- Email: azeddinaitwaalla@gmail.com
 - Linkedin: (https://www.linkedin.com/in/azeddine-ait-waalla-081207223/)
 
