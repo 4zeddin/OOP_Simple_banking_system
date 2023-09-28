@@ -1,6 +1,6 @@
 ## Simple Python Bank Management System
 
-A basic Python bank management system for educational purposes.
+A basic Python ( Object-oriented-programming ) bank management system for educational purposes.
 
 ## Installation
 
